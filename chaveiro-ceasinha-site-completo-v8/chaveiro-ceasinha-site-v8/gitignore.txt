@@ -1,0 +1,45 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.temp
+.cache/
+tmp/
+temp/
+
+# Dependencias e ferramentas Node.js, caso sejam adicionadas futuramente
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Variaveis de ambiente e dados sensiveis
+.env
+.env.*
+!.env.example
+
+# Arquivos de build e cobertura, caso sejam gerados futuramente
+dist/
+build/
+coverage/
+
+# Pacotes compactados gerados localmente
+*.zip
+*.rar
+*.7z
+
+# Arquivos de backup
+*.bak
+*.backup
