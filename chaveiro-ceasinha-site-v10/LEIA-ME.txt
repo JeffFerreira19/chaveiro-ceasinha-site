@@ -1,0 +1,8 @@
+COMO ABRIR
+
+1. Extraia todo o ZIP.
+2. Abra a pasta chaveiro-ceasinha-site-v10.
+3. Clique duas vezes em index.html.
+4. Mantenha todos os arquivos e a pasta assets juntos.
+
+Mudanças V10: seção de perguntas frequentes removida; botão flutuante alterado para “Fale Conosco” com ícone do WhatsApp.
